@@ -1,0 +1,22 @@
+body {
+  background-color: #E8920E;
+  color: #FCF6EA; }
+  body h1, body h2, body h3, body h4 {
+    color: #FCF6EA; }
+    body h1 .subheader, body h2 .subheader, body h3 .subheader, body h4 .subheader {
+      color: #775C24; }
+
+#splash {
+  margin-top: 120px; }
+  #splash #amper-logo {
+    font-size: 1200%;
+    display: block;
+    font-family: 'Arial';
+    line-height: 70%; }
+  #splash .tagline {
+    color: #775C24; }
+  #splash #screenshot {
+    height: 667px;
+    width: 375px; }
+
+/*# sourceMappingURL=style.css.map */
